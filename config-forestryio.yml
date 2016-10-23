@@ -6,13 +6,13 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>LWKK, landelijke werkgroep kindermishandeling-kinderartsen</title>
+  <title>LWKK</title>
 
   <meta name="author" content="LWKK" />
 
   
 
-  <link rel="alternate" type="application/rss+xml" title="LWKK, landelijke werkgroep kindermishandeling-kinderartsen - Informatie van en over de werkgroep Kindermishandeling-Kinderartsen" href="/lwkk/feed.xml" />
+  <link rel="alternate" type="application/rss+xml" title="LWKK - Informatie van en over de werkgroep Kindermishandeling-Kinderartsen" href="/lwkk/feed.xml" />
 
   
     
@@ -48,11 +48,11 @@
   
 
   
-  <meta property="og:title" content="LWKK, landelijke werkgroep kindermishandeling-kinderartsen" />
+  <meta property="og:title" content="LWKK" />
   
 
    
-  <meta property="og:description" content="--- url: http://ArjanvK.github.io/lwkk baseurl: &quot;/lwkk&quot; title: LWKK, landelijke werkgroep kindermishandeling-kinderartsen description: Informatie van en over de werkgroep Kindermishandeling-Kinderartsen navbar-links: Over ons: aboutme Resources: - Beautiful Jekyll: http://deanattali.com/beautiful-jekyll/ - Learn markdown: http://www.markdowntutorial.com/ - GitHub Pages: https://pages.github.com/ Author's home: http://deanattali.com avatar: &quot;/img/avatar-icon.png&quot; author: name: LWKK email: lwkk.nvk@gmail.com facebook: yourname github: yourname twitter:...">
+  <meta property="og:description" content="--- url: http://ArjanvK.github.io/lwkk baseurl: &quot;/lwkk&quot; title: LWKK description: Informatie van en over de werkgroep Kindermishandeling-Kinderartsen navbar-links: Over ons: aboutme Resources: - Beautiful Jekyll: http://deanattali.com/beautiful-jekyll/ - Learn markdown: http://www.markdowntutorial.com/ - GitHub Pages: https://pages.github.com/ Author's home: http://deanattali.com avatar: &quot;/img/avatar-icon.png&quot; author: name: LWKK email: lwkk.nvk@gmail.com facebook: yourname github: yourname twitter: yourname google-plus: &quot;+yourname&quot;...">
   
 
 
@@ -74,11 +74,11 @@
   <meta name="twitter:creator" content="@yourname" />
 
   
-  <meta name="twitter:title" content="LWKK, landelijke werkgroep kindermishandeling-kinderartsen" />
+  <meta name="twitter:title" content="LWKK" />
   
 
   
-  <meta name="twitter:description" content="--- url: http://ArjanvK.github.io/lwkk baseurl: &quot;/lwkk&quot; title: LWKK, landelijke werkgroep kindermishandeling-kinderartsen description: Informatie van en over de werkgroep Kindermishandeling-Kinderartsen navbar-links: Over ons: aboutme Resources: - Beautiful Jekyll: http://deanattali.com/beautiful-jekyll/ - Learn markdown: http://www.markdowntutorial.com/ - GitHub Pages: https://pages.github.com/ Author's home: http://deanattali.com avatar: &quot;/img/avatar-icon.png&quot; author: name: LWKK email: lwkk.nvk@gmail.com facebook: yourname github: yourname twitter:...">
+  <meta name="twitter:description" content="--- url: http://ArjanvK.github.io/lwkk baseurl: &quot;/lwkk&quot; title: LWKK description: Informatie van en over de werkgroep Kindermishandeling-Kinderartsen navbar-links: Over ons: aboutme Resources: - Beautiful Jekyll: http://deanattali.com/beautiful-jekyll/ - Learn markdown: http://www.markdowntutorial.com/ - GitHub Pages: https://pages.github.com/ Author's home: http://deanattali.com avatar: &quot;/img/avatar-icon.png&quot; author: name: LWKK email: lwkk.nvk@gmail.com facebook: yourname github: yourname twitter: yourname google-plus: &quot;+yourname&quot;...">
   
 
   
@@ -99,7 +99,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="http://ArjanvK.github.io/lwkk">LWKK, landelijke werkgroep kindermishandeling-kinderartsen</a>
+      <a class="navbar-brand" href="http://ArjanvK.github.io/lwkk">LWKK</a>
     </div>
 
     <div class="collapse navbar-collapse" id="main-navbar">
@@ -207,7 +207,7 @@
       ---
 url: http://ArjanvK.github.io/lwkk
 baseurl: "/lwkk"
-title: LWKK, landelijke werkgroep kindermishandeling-kinderartsen
+title: LWKK
 description: Informatie van en over de werkgroep Kindermishandeling-Kinderartsen
 navbar-links:
   Over ons: aboutme

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>LWKK, landelijke werkgroep kindermishandeling-kinderartsen</title>
+    <title>LWKK</title>
     <description>Informatie van en over de werkgroep Kindermishandeling-Kinderartsen</description>
     <link>http://ArjanvK.github.io/lwkk</link>
     <atom:link href="http://ArjanvK.github.io/lwkk/feed.xml" rel="self" type="application/rss+xml" />
@@ -70,18 +70,6 @@
         <pubDate>Thu, 15 Jan 2015 00:00:00 +0000</pubDate>
         <link>http://ArjanvK.github.io/lwkk/2015-01-15-pirates/</link>
         <guid isPermaLink="true">http://ArjanvK.github.io/lwkk/2015-01-15-pirates/</guid>
-      </item>
-    
-      <item>
-        <title>First post!</title>
-        <description>
-          
-          This is my first post, how exciting!
-
-        </description>
-        <pubDate>Sun, 04 Jan 2015 00:00:00 +0000</pubDate>
-        <link>http://ArjanvK.github.io/lwkk/2015-01-04-first-post/</link>
-        <guid isPermaLink="true">http://ArjanvK.github.io/lwkk/2015-01-04-first-post/</guid>
       </item>
     
   </channel>
