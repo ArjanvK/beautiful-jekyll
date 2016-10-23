@@ -1,9 +1,8 @@
 ---
+title: LWKK
 layout: page
-title: My website
-subtitle: This is where I will tell my friends way too much about me
+subtitle: Landelijke Werkgroep Kindermishandeling-Kinderartsen
 ---
-
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
@@ -24,12 +23,12 @@ subtitle: This is where I will tell my friends way too much about me
     <div class="post-entry">
       {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
       {% assign excerpt_word_count = post.excerpt | number_of_words %}
-      {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
+      {% if post.content != post.excerpt or excerpt_word_count &gt; site.excerpt_length %}
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
       {% endif %}
     </div>
 
-    {% if post.tags.size > 0 %}
+    {% if post.tags.size &gt; 0 %}
     <div class="blog-tags">
       Tags:
       {% if site.link-tags %}
@@ -45,18 +44,17 @@ subtitle: This is where I will tell my friends way too much about me
    </article>
   {% endfor %}
 </div>
-
-{% if paginator.total_pages > 1 %}
+<p>{% if paginator.total_pages &gt; 1 %}</p>
 <ul class="pager main-pager">
   {% if paginator.previous_page %}
   <li class="previous">
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">← Newer Posts</a>
   </li>
   {% endif %}
   {% if paginator.next_page %}
   <li class="next">
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts →</a>
   </li>
   {% endif %}
 </ul>
-{% endif %}
+<p>{% endif %}</p>
