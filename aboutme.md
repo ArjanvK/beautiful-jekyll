@@ -1,16 +1,9 @@
 ---
+title: Over ons
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Dit doet het LWKK
 ---
+De landelijke werkgroep kindermishandeling-kinderartsen ( LWKK ) is  onderdeel van de Sectie Sociale en Psychosociale Kindergeneeskunde ( SSPK).
+Op verzoek van de  Nederlandse Vereniging Kindergeneeskunde fungeert zij als klankbord van kinderartsen.
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Ook wordt zij gevraagd mee te werken aan beleidsontwikkeling en richtlijnen vanuit VWS. Zij kan op deze vragen ingaan vanwege de bundeling binnen het netwerk van expertise van kinderartsen en vertrouwensartsen die veelal een co&ouml;rdinerende functie in een regio vervullen.
